@@ -1,0 +1,14 @@
+{
+  "name": "Save-Coordinates",
+  "version": "0.0.1",
+  "dependencies": {
+    "async": "^2.0.1",
+    "body-parser": "^1.15.2",
+    "errorhandler": "^1.4.3",
+    "express": "^4.14.0",
+    "fs": "0.0.1-security",
+    "lodash": "^4.15.0",
+    "morgan": "^1.7.0",
+    "path": "^0.12.7"
+  }
+}
